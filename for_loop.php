@@ -6,5 +6,5 @@ for($i=0; $i<=10; $i++){
 
 echo "Done with for loops";
 
-echo "wait what about while loops";
+echo "wait what about while loops.";
  ?>
